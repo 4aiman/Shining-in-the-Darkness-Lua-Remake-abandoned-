@@ -27,8 +27,8 @@ GTX1660S should handle it. GT1030 may not. It can be fixed, but hte project is [
 
 Here and there sprinkled some files. Some usefull, some useless, some need to be replaced.
 
-- sitd.lua - reads the OG rROM and extracts maps, items, enemy data. Can't read encounter data, so no battles.
+- sitd.lua - reads the OG ROM and extracts maps, items, enemy data. Can't read encounter data, so no battles.
 - OOZE.lua - an example of how to read enemy data, including moves in battles.
-- notes.txt - some addresses in ROM, in Russian, amy provide some insight on the structure of the ROM
+- notes.txt - some addresses in ROM, in Russian, may provide some insight on the structure of the ROM
 - new 3.txt - info, dumped from online sources: enemy data (contains errors), sprite properties, resistance values explanation, per-enemy battle moves listm effect ids, enemy zone levels (the part I failed to read from the ROM), cheat codes, leveling up tables, some conversations from SFC, modifier explanation, hidden items and dialogues 
 - trans.txt - notes on translation, in Russian, may provide some insight on the structure of the ROM
