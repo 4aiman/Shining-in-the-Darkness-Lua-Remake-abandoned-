@@ -1,0 +1,1086 @@
+                   HP  MP  ATK DEF SPD    EXP   GP     Item                   Sprite      Unknown         MRate SRate T  ???  Moves
+SLIMY OOZE     -    8   0   15  10  10      1    2  :  (4) HERB            :   0--RGB  :  00000000, 0000, 33333 33303 1  032, BF 2B 2B 2B 2B BF
+CAVE SLUG      -    8   0   17  12  11      1    2  :  (4) WISDOM SEED     :   1--RGB  :  00000000, 0001, 33333 33303 1  030, 2B 2B 2B 2B BF 2B
+PITWORM        -   10   0   19   9   9      1    3  :  (3) BRONZE KNIFE    :   2--RGB  :  00000000, 0000, 33333 33303 1  030, 2B 2B 2B 2B 2B BF
+MAN-APE        -   11   0   23  11  12      2    4  :  (4) ANGEL FEATHER   :   3--RGB  :  00000000, 0001, 33333 32202 1  030, 2B 2B 54 54 BF BF
+DARK JELLY     -   10   0   25  12  13      3    5  :  (3) SMELLING SALTS  :   0H-RBG  :  00000000, 0001, 33333 32202 1  030, 2B 2B 2B 2B BF BF
+DARKBAT        -   12   0   31  12  15      3    6  :  (4) HERB            :   5--BGR  :  00000000, 0001, 33333 33202 1  030, 2B 2B 53 53 BF 2B
+KILLERBEE      -   13   0   33  13  16      4    7  :  (5) DEPOISON        :   4--GRB  :  00000000, 0001, 33333 33302 1  020, 2B 20 2B 2B BF BF
+SCAVENGER      -   11   3   38  16  14      4    8  :  (4) WISDOM SEED     :   1H-BGR  :  00000000, 0001, 13333 32222 1  021, 2B 01 2B BF 01 BF
+MAD GNOME      -   14   0   40  16  16      5    7  :  (4) BRONZE KNIFE    :   6--BGR  :  00000000, 0001, 33333 32202 1  030, 2B 2B 2B 2B BF 2B
+DARK HERMIT    -   15   7   41  17  18      6    7  :  (4) SMELLING SALTS  :   7--RBG  :  00000000, 0001, 33333 32122 1  002, 04 BF 2B 2B 2B 2B
+NEANDERTHAL    -   18   0   43  15  19      7    9  :  (4) ANGEL FEATHER   :   3H-BGR  :  00000000, 0001, 33333 32202 1  030, 2B 53 54 2B BF BF
+WIDOWFANG      -   16   0   45  16  20      8   11  :  (5) DEPOISON        :   8--RGB  :  00000000, 0001, 33333 32202 1  030, 2B 21 2B 2B 20 BF
+CAVE GOBLIN    -   16   0   47  16  22      8   13  :  (4) BRONZE KNIFE    :   9--RGB  :  00000000, 0001, 33333 32202 1  030, 2B 2D 2B 2D BF 2B
+TRIKLOPS       -   17   0   50  14  25      9   17  :  (4) HERB            :   2H-BGR  :  00000000, 0001, 33333 32202 1  030, 2B 44 2B 2B 44 BF
+VAMPYRE        -   18   0   53  16  27     12   13  :  (4) SMELLING SALTS  :   5H-GBR  :  00000000, 0001, 33333 32202 1  030, 2B 24 25 2B BF 2B
+SKELETAR       -   20   0   56  17  30     13   16  :  (5) DEPOISON        :  10--RGB  :  00000000, 0001, 33333 32202 1  030, 53 21 2B 53 21 2B
+PUNKINHEAD     -   19   6   54  15  33     14   18  :  (4) HERB            :  11--RGB  :  00000000, 0001, 33333 32222 1  100, 9C BF 2B 2B 2B 2B
+VILE OOZE      -   22   3   58  18  38     16   21  :  (4) ANGEL FEATHER   :   0--BRG  :  00000000, 0001, 33333 32222 1  031, 2B 05 2B 2B 05 BF
+DEATHGUIDE     -   24   6   57  15  40     19   19  :  (4) WISDOM SEED     :   7H-RGB  :  00000000, 0001, 33333 32202 1  030, 2B 29 2B 2B 29 2B
+STINGER        -   23   6   63  19  39     18   20  :  (4) ANGEL FEATHER   :   4H-BGr  :  00000000, 0001, 33333 32222 1  021, 2B 14 2B 2B 14 2B
+KILLER GNOME   -   25   0   65  21  45     19   22  :  (4) BRONZE KNIFE    :   6--RGB  :  00000000, 0001, 33333 32222 1  030, 2B C6 2B 2B C6 2B
+WILD ORC       -   25   0   65  20  42     20   23  :  (4) HERB            :   9H-RBg  :  00000000, 0001, 33333 22201 1  020, 2B 2B 2B 2C 3C 39
+CLODHOPPER     -   24   0   72  18  47     22   26  :  (4) WISDOM SEED     :  12--RGB  :  00000000, 0001, 33333 12222 1  030, 4E 4F 2B 4E BF 2B
+HYDRAX         -   23   0   67  22  43     21   19  :  (4) ANGEL FEATHER   :  13--RGB  :  00000000, 0001, 22222 32202 1  030, 2B 26 2B 2B 26 2B
+NIGHTSTALKER   -   26   0   77  19  48     24   27  :  (4) HEALER FRUIT    :   1--BRG  :  00000000, 0001, 32332 32202 1  020, 2B 2B 2B BF 33 33
+GRIMFOWL       -   27   0   83  24  50     26   24  :  (4) SMELLING SALTS  :  14--RGB  :  00000000, 0001, 33333 32222 1  030, 2B 24 2B 2B 24 BF
+MINOTAUR       -   29   6   86  21  46     28   25  :  (4) SHORT SWORD     :  15--RGB  :  00000000, 0001, 33333 22222 1  031, 2B 92 2B 92 2B BF
+DARK WING      -   32   0   82  23  49     33   24  :  (4) WOODEN CLUB     :   5H-RGB  :  00000000, 0001, 33333 32222 1  030, 2B 21 2B 2B 21 BF
+TOADSTOOL      -   34   0   89  26  52     36   22  :  (4) LEATHER SHIELD  :  16--RGB  :  00000000, 0000, 22222 32102 1  030, 2B 3B 28 3B 29 BF
+DEATHGRIN      -   31   0   96  27  54     39   32  :  (4) WOVEN ROBE      :  12H-BRG  :  00000000, 0001, 33333 32202 1  030, 4E 4F 2B 4E 4F BF
+BULLSNOUT      -   36  10   94  25  50     37   24  :  (4) CLOTH HOOD      :   9H-BGR  :  00000000, 0001, 33333 32202 1  001, 9D BF 2B 2B 2B 2B
+TOMBWALKER     -   34   0   97  28  55     42   28  :  (4) SMELLING SALTS  :  17--RGB  :  00000000, 0001, 32233 22201 1  030, 2B 26 24 2B 3B 24
+DEATH RATTLER  -   37   0  102  30  57     50   30  :  (4) HEALER FRUIT    :  18--RGB  :  00000000, 0001, 33333 32102 1  030, 53 2B 53 2B BF 53
+OSTRIK         -   38   0  105  31  59     58   35  :  (4) HEALER FRUIT    :  14H-RbG  :  00000000, 0001, 33333 20002 1  000, C2 2B BF BF 2B BF
+DARK WIZARD    -   35  10  100  29  61     66   37  :  (4) STRAW ROBE      :  19--BGR  :  00000000, 0001, 33322 12121 1  032, 0C 9A 2B 0C 9A BF
+JACKOBUTCH     -   40   6  115  32  63     73   41  :  (4) WISDOM SEED     :  11H-RBG  :  00000000, 0001, 33333 21221 1  131, 50 2B 50 2B 50 BF
+WAR LIZARD     -   39   3  123  40  67     85   52  :  (3) LEATHER ARMOR   :  20--RGB  :  00000000, 0001, 22222 31122 1  131, 2B 12 2B 12 2B BF
+SMOKE          -   41   8  124  29  65     89   55  :  (3) SHORT AXE       :  21--RGb  :  00000000, 0001, 11122 11102 1  022, 2B 2B 2B 94 36 36
+TARANTIA       -   43   0  132  34  68     97   59  :  (3) FUR ROBE        :   8H-BRG  :  00000000, 0001, 33333 22101 1  030, 53 CD 2B CD 53 BF
+MAZERUNNER     -   42   0  128  38  71    108   62  :  (3) SWORD           :  12--GBR  :  00000000, 0001, 33333 21201 1  030, 4E 4F 4E 4F 4E BF
+NIGHTWRAITH    -   45   6  130  38  72    120   65  :  (4) WOVEN HOOD      :   7H-BRG  :  00000000, 0001, 23333 32222 1  031, 02 2B BF 02 2B BF
+COKATORIS      -   46   0  132  35  73    127   70  :  (4) SMELLING SALTS  :  23--RGB  :  00000000, 0001, 33333 22201 1  030, 2B 24 2B 24 2B BF
+SORCEROR       -   41   6  129  32  71    132   72  :  (3) HEMP ROBE       :  19--RGB  :  00000000, 0001, 22133 11111 1  132, 2B 09 3A 2B 09 3A
+DRIFFID        -   51   0  138  36  70    138   74  :  (4) SMELLING SALTS  :  13H-BRG  :  00000000, 0001, 23233 11201 1  020, 2B 2B 2A 2A 3C 3C
+FUNGOID        -   44   0  135  35  69    114   67  :  (3) BREAST PLATE    :  16H-RBG  :  00000000, 0001, 33222 22202 1  020, 2B 2B 4C BF 22 4C
+DEADHEAD       -   55   4  140  41  68    146   76  :  (3) LONGSWORD       :  10H-Rgb  :  00000000, 0001, 31233 22121 1  022, 2B 2B 16 16 39 39
+REAPER         -   49   8  135  38  72    155   79  :  (3) BATTLE AXE      :  22--RGB  :  00000000, 0001, 33333 12211 1  022, 2B 2B 2B 1B 1B 3F
+MALIGATOR      -   60   0  155  42  70    163   84  :  (3) STEEL SABER     :  20H-BRG  :  00000000, 0001, 23333 21102 1  030, 2B 33 2B 33 2B BF
+BILLOW         -   57   5  140  37  73    165   73  :  (4) HOLY WATER      :  21H-RGB  :  00000000, 0001, 22222 22211 1  000, 2B 93 2B 44 2B 3D
+MANTORO        -   62   0  152  43  70    170   85  :  (3) DOUBLE AXE      :  15H-RBG  :  00000000, 0001, 33333 11101 1  030, 2B 2B 2B BF 2B BF
+DEMI-WIGHT     -   59   8  146  47  72    175   88  :  (4) WORN ROBE       :  17H-GBR  :  00000000, 0000, 31222 22221 1  132, 2B 0D 2B 10 2B BF
+BERSERKER      -   65   0  160  45  75    180   91  :  (3) BRONZE LANCE    :  24--RGB  :  00000000, 0001, 33333 12102 1  020, 2B 2D 2B 2D BF BF
+MANDRAKE       -   60   4  154  46  74    200  101  :  (4) HEALER FRUIT    :  25--RGB  :  00000000, 0001, 22222 22222 1  102, D0 C5 2B BF 2B 2B
+SALAMANDER     -   67   0  172  47  71    220  120  :  (3) BREAST PLATE    :  26--RGB  :  00000000, 0001, 13232 12101 1  020, 2B 2B 34 2B 34 2B
+KAMIL          -   63   0  165  50  77    240   97  :  (3) STEELWHIP       :  18H-GRB  :  00000000, 0001, 33322 10002 1  100, C1 C6 00 00 00 00
+DEATHSERPENT   -   63   8  180  51  76    270  115  :  (3) IRON ARMOR      :  20H-RBG  :  00000000, 0001, 13333 22202 1  022, 2B 2B 03 2B 03 BF
+WINGBLADE      -   68   0  187  54  74    300  115  :  (3) FUR HOOD        :  27--RGB  :  00000000, 0001, 33333 11101 1  030, BF 2B 54 2B 54 3D
+TOMMYHAWK      -   70   0  195  57  80    330  108  :  (3) LEATHER ROBE    :  14H-rGB  :  00000000, 0001, 33322 11101 1  030, 53 3B 2B 2B BF 53
+GRIM SPECTER   -   65   8  190  55  78    380  124  :  (3) MAGIC HOOD      :  22H-GBR  :  00000000, 0001, 32233 11101 1  020, 2B 2B 1B BF 1B 2B
+HELLKNIGHT     -   72   3  200  59  75    430  128  :  (4) HOLY WATER      :  28--RGB  :  00000000, 0001, 22233 21101 1  030, 2B 2C 2B 2C 2B BF
+BATTLE OXE     -   70   0  205  52  76    470  130  :  (3) GREAT AXE       :  15--GRB  :  00000000, 0001, 33333 11102 1  030, B6 2B 2B B6 2B BF
+MAD TUT        -   73   6  211  51  81    500  138  :  (3) ENDURO STAFF    :  17--BGR  :  00000000, 0001, 33333 32102 1  031, 15 2B 2B 95 2B BF
+BLOODROOSTER   -   75   0  215  60  83    560  153  :  (3) STEEL HELM      :  23H-GRB  :  00000000, 0001, 33333 22202 1  030, 2B 58 2B 58 2B BF
+LIVING DEAD    -   60   0  220  90  70    600  185  :  (3) ELVEN HOOD      :  29--BGR  :  00000000, 0001, 31233 22202 1  030, 2B 22 2B 22 2B BF
+DREAMPUFF      -   64   8  222  85  85    640  210  :  (3) LEATHER ROBE    :  21--RBg  :  00000000, 0001, 22222 10002 1  000, C2 C6 BF 2B 00 00
+TROLL          -   76   0  228  73  72    670  165  :  (3) GREAT FLAIL     :  30--BGR  :  00000000, 0001, 33333 22202 1  100, 2B C8 2B C8 2B BF
+GRYPHON        -   74   0  225  68  80    710  230  :  (3) STEELWHIP       :  31--RGB  :  00000000, 0001, 33322 12202 1  020, 2B 2B 55 2B 55 3F
+DEMONIKA       -   78   0  230  70  78    770  265  :  (3) ICE SABER       :  24H-BRG  :  00000000, 0001, 33333 22101 1+ 030, 2B 2B 2B 2B BF 2B
+NECROMANCER    -   70   6  225  65  87    820  250  :  (3) MERCY STAFF     :  19--GBR  :  00000000, 0001, 32333 21201 2  111, 9D CA 3A 9D CA 3A
+LIVING ARMOR   -   65   3  240 120  82    950  230  :  (3) BROAD SWORD     :  28H-GBR  :  00000000, 0001, 11111 11111 1  132, 92 2C 2B 92 2C 2B
+DRAGONSPAWN    -   80   0  250  58  76    900  270  :  (3) IRON LANCE      :  32--RGB  :  00000000, 0001, 13323 22101 1  030, 2B 59 2B 59 2B BF
+VYPER          -   83   0  236  76  90    930  302  :  (4) DARK BLOCK      :  18H-BGR  :  00000000, 0001, 33333 22202 1  000, 58 2B 2B 58 2B BF
+WARBIRD        -   77   0  255  80  83    970  310  :  (3) HEXWHIP         :  27H-BGR  :  00000000, 0001, 33322 22202 1  030, 2B 55 2B 55 2B BF
+DEATHBRINGER   -   85  56  238  70  80   1010  380  :  (3) MIRACLE HERB    :  22--RBG  :  00000000, 0001, 11111 22110 1  121, 9F 9F 3A 2B BF 3A
+MANDAGORA      -   78   8  250  74  85   1060  420  :  (3) BARRIER RING    :  25H-RBG  :  00000000, 0001, 33333 22221 1  121, 3C 5B D1 51 5B 3C
+CEREBUS        -   80   0  260  88  88   1100  450  :  (3) DOOMSTAFF       :  33--BGR  :  00000000, 0001, 22333 22202 1+ 020, 2B 53 34 53 34 2B
+MEAT ZOMBIE    -   90   0  248  82  84   1250  390  :  (3) DEMON STAFF     :  29--RGB  :  00000000, 0001, 32222 22202 1  030, 2B 20 2B 20 2B 20
+TROGLODYTE     -   95   0  265  72  86   1300  510  :  (3) STEEL SHIELD    :  26H-RBG  :  00000000, 0001, 31222 22101 1  020, 2B 2B 37 2B 37 BF
+DEATHMASK      -  102   0  280  76  90   1330  470  :  (4) DOOMBLADE       :  24--RBG  :  00000000, 0001, 33333 22101 1  030, 2B 5C 2B 5C 2B DC
+GOLLUM         -   92   0  320 120  82   1460  590  :  (3) SUPER FLAIL     :  34--GRB  :  00000000, 0001, 22222 22201 1  030, 2B 2D 2B 2D 2B 2B
+LANCEROT       -  110   6  268  85  88   1500  450  :  (3) STORM SWORD     :  28--BRG  :  00000000, 0001, 33333 11121 1+ 130, 2B 2B 95 2B 95 2B
+HOBGOBLIN      -  105   0  300  73  85   1570  480  :  (3) BATTLE HAMMER   :  30H-RGB  :  00000000, 0001, 33333 12201 1  000, 2B 2B 2B 2B BF 2B
+HELLHOUND      -  108   0  290  70  91   1640  620  :  (4) HOLY WATER      :  33H-RGB  :  00000000, 0001, 33333 21101 1+ 030, 2B 53 2B 53 BF 53
+GARGOYLE       -   93  10  274  84  87   1680  550  :  (3) DARKROBE        :  35--RGB  :  00000000, 0001, 33333 21121 1  132, 2B 2B 97 2B 17 BF
+GHOUL          -   96   0  280  78  84   1720  660  :  (3) DARK SCIMITAR   :  29H-GRB  :  00000000, 0001, 31232 12201 1  020, 2B 2B 26 2B 26 BF
+GRAVEROC       -   99   0  288  86  90   1860  760  :  (3) STEEL LANCE     :  31H-RBG  :  00000000, 0000, 33332 22101 1  020, 2B 2B 56 2B 56 2B
+CHIMERA        -  104   0  300  92  86   1940  980  :  (3) FROST ARMOR     :  36--RGB  :  00000000, 0001, 31333 22201 1  020, 2B 2B BF 37 2B 37
+COLLUSSUS      -  120   0  350 110  89   2030  830  :  (4) MITHRIL ORE     :  34H-RGB  :  00000000, 0001, 33333 22101 1  030, 2B 57 2B 57 2B 57
+DRAGONFYRE     -  110   0  295  85  92   2100  830  :  (3) FIRESWORD       :  32H-RBG  :  00000000, 0001, 13322 12201 1  020, 2B 2B 35 2B 35 BF
+DEATHPAW       -  109  14  305  65  96   2270  962  :  (2) MAGIC MIRROR    :  33H-RBG  :  00000000, 0001, 33333 11111 1+ 120, 53 53 97 53 97 53
+LOKJAW         -  118  20  320  80  95   2450 1000  :  (3) MAGIC RING      :  35--GBR  :  00000000, 0001, 33322 12211 1  030, 11 9A 2B 9A 0E 2B
+KAMILIUN       -  106   8  340  87  91   2520 1120  :  (3) HERB- WATER     :  36H-RBG  :  00000000, 0001, 33333 22121 1  022, 2B 99 2B 2B 2B 99
+DEMONESK       -  125   0  298  79  95   2600 1030  :  (4) HERB- WATER     :  37H-BGR  :  00000000, 0001, 21232 12211 1  020, 2B 2B 2B 38 2B 38
+RAGNAROCK      -  140   0  400  70  93   2800 1350  :  (3) MAGIC MAIL      :  34--GBR  :  00000000, 0001, 33333 11101 1  122, 2B 2B 2B D2 D2 2B
+SERPI          -  115  15  310  80  90   2900 1400  :  (3) FORBIDDEN BOX   :  35--BRG  :  00000000, 0001, 22232 12101 1  022, 2B 2B 5A 2B 5A 2B
+RAMIUN         -  150   0  360  95  96   3200 1200  :  (3) SUN ARMOR       :  36--BGR  :  00000000, 0001, 13222 22101 1  020, 2B 2B 35 2B 35 2B
+BRIMSTONE      -  160  20  336  76 100   3580 1500  :  (3) DREAM BLADE     :  37H-RGB  :  00000000, 0001, 22222 11111 1  130, 2B 97 2B 2B 2B 97
+CENTAURIAN     -  130   0  310  75  94   1680  790  :  (3) STEEL ARMOR     :  38--RGB  :  00000000, 0001, 33333 22201 1  030, 4E 2B 4E 2B 4E 2B
+WARHORSE       -  130   0  350  90 100   2110 1230  :  (3) MAGIC ROBE      :  38H-RBG  :  00000000, 0001, 33333 22201 1  030, 5D 4F 5D 4F 5D 4F
+CRYSTAL OOZE   -    3 999  250 500 300  30000 5000  :  (3) MITHRIL ORE     :  39--RGB  :  00000000, 0010, 00000 00000 1  132, 3F 40 08 C7 97 2B
+                                                                                                                                                 
+KROMEBALL      -  300   0  271  70  75    500  300  :  (5) SWORD           :  63--RGB  :  00100000, 0001, 33333 22211 1+ 120, CB 2B 2B CB 2B 2B
+KRUSHER        -  200   0  230  60  70    350  200  :  (5) DARK BLOCK      :  63--RGB  :  00100000, 0001, 33333 30303 1  030, 2B 2C 2B 2B 2C 2B
+SCIZZAR        -  300   0  278 115  78   1000  600  :  (3) MITHRIL HOOD    :  63--RGB  :  00100000, 0001, 11111 31101 1  030, 2B 2B 2B 37 2B 37
+SYREN          -  354  15  350  80 100   3400 2900  :  (3) MITHRIL SWORD   :  63--RGB  :  01100000, 0101, 12221 11111 1+ 020, 2B 2B 2D 27 96 96
+SEA STALLION   -  100   0  172  50  72    250  120  :  (4) MADU            :  63--RGB  :  01100000, 0001, 23333 11101 1+ 020, 2B 2B 2B 36 2B 36
+KILLWAVE       -   65   8   30  20  22     50   30  :  (4) MAIN GAUCHE     :  63--RGB  :  01100000, 0001, 33333 22121 1+ 132, 06 2B 2B 06 2B 2B
+CYBLOK         -   80   0  100  40  38     80   50  :  (4) FIRESTAFF       :  63--RGB  :  00000000, 0001, 32222 32101 1  000, 2B 2B 2B 2B BF 2B
+BRIKEYE        -  100   6  170  65  72    200  250  :  (4) MITHRIL ORE     :  63--RGB  :  00000000, 0001, 33333 21121 1  032, 24 2B D1 24 2B D1
+BLACKBONE      -  300   0  380 100  93   3000 2500  :  (3) MITHRIL AXE     :  63--RGB  :  00100000, 0101, 31222 10000 1+ 031, 2B 2B 2B 2D 2D 2B
+TORTOLYDE      -   75  50  100  45  64    100   80  :  (0) ORB OF TRUTH    :  63H-RBG  :  00100001, 0001, 33333 11121 1+ 132, 92 9C 2B 92 92 2B
+SHELLBEAST     -  370   0  250  90  75   1500  500  :  (3) MITHRIL ROD     :  63--RGB  :  00100000, 0001, 33333 22101 1  000, 34 59 2B 34 59 34
+GRIMWALL       -   65   0  140  45  72    150  100  :  (5) HEALER FRUIT    :  63--RGB  :  00100000, 0001, 22222 21100 1+ 030, 2B 2B 2D 2B 2B 2D
+BILDBLOK       -  350   0  320  90  92   2500 1000  :  (3) MITHRIL ARMOR   :  63--RGB  :  00100000, 0101, 22222 11100 1  030, 58 38 2B 58 38 2B
+KAISERKRAB     -   50   0   63  36  20     40   50  :  (0) ROYAL TIARA     :  63--RGB  :  00100000, 0001, 33333 31101 1  031, 2D 2B 2B 2D 2B 2B
+KAISERKRAB     -   50   0   63  36  20     40   50  :  (5) HEALER FRUIT    :  63--RGB  :  00100000, 0001, 33333 31101 1+ 030, 2D 2B 2B 2D 2B BF
+SENTINEL       -  180   0  236  80  67    430  250  :  (5) STEEL HELM      :  63--RGB  :  00100000, 0001, 22222 11101 1+ 030, 2D 2D 2B 2D 2D 2B
+GUARDIAN       -  480   0  400 140 105   4500 3000  :  (3) LIGHTROBE       :  63--RGB  :  00100000, 0001, 33333 11101 2  030, 2B 2B 2B 2B 2C 2B
+DOPPLER        -  142   0  160  60  65    300  130  :  (6) DARK BLOCK      :  63--RGB  :  00100000, 0001, 33333 21201 1  030, 2B 2C 3B 2B 28 00
+HEADHUNTER     -  300   0  281  67  83    600  300  :  (3) DARK SCIMITAR   :  63--RGB  :  00100000, 0000, 22222 11101 1+ 030, 20 2B 2B 20 2B 2B
+SOULTHIEF      -  400   0  291  75  87    700  400  :  (4) DARK SCIMITAR   :  63--RGB  :  00100000, 0001, 33333 11101 1+ 030, 28 2B 2B 28 2B 2B
+HANDEATER      -  100   0  366 160  92   1500  500  :  (3) BLACK BOX       :  63--RGB  :  01100000, 0001, 11111 10000 1  030, 37 5B 2B 37 5B 2B
+GHOST          -  120   8  181  56  63    160   90  :  (4) MAGIC HOOD      :  63--RGB  :  01100000, 0000, 11111 11101 1  030, 1B 2B 2B 1B 2B 2B
+CHESTBEAK      -  100   0  112  32  30     85   60  :  (4) FUR HOOD        :  63--RGB  :  01100000, 0001, 11111 11101 1  030, 2A 28 2B 2A 28 2B
+DARK SOL       - 1500 999  380  86 110      0    0  :  (0) None            :  63--RGB  :  01100000, 0000, 33333 00000 1  132, DF DF DF DF E1 E1
+DARK SOL       - 2500 999  430  86 160      0    0  :  (0) None            :  63--RGB  :  01100000, 1001, 33333 00000 1+ 132, E2 E3 E4 E5 DE DE
+DARK KNIGHT    - 1000   0  350  90 140   1000    0  :  (0) None            :  63--RGB  :  01100000, 1001, 22222 00000 1+ 000, 60 00 00 00 00 00
+undefined      -  142   0  160  60  65    300  130  :  (0) None            :  63--RBG  :  00000000, 0001, 33333 21201 1+ 030, 53 4F 54 4F 00 4F
+                                                                                          \------/                       \-/  \---------------/
+                                                                                             5F                         7E-80       81 - 86
+
+Resistance stats: (0-3 = 0-100% damage or success rate)
+  Magic:  [Fire, Ice, Bolt, Blast, Burst]
+  Status: [Slow, Muddle, Sleep, Screen, ?]
+
+5D Sprite properties
+  00-05: Set RGB order (RGB, GRB, BGR, BRG, GBR, RBG)
+  06-07: Crash
+  +08: Lower red    ¯|
+  +10: Lower green   | before RGB order
+  +20: Lower blue   _|
+  +40: Horizontal flip
+  +80: Vertical flip
+
+7F Move order
+  0: First available
+  1: Cycle in order
+  2: Random
+  3: Random
+
+
+Moves:
+    Type        Dmg   Targ. MP  Text
+------------------------------------------------------------------------
+00:  Attack       ATK        -  "~ hurls a rock!"
+01:  Blaze 1      6-12       2
+02:  Blaze 2      9-13  *    4
+03:  Blaze 3     33-45  *    8
+04:  Blaze 4     47-69  *   14
+05:  Freeze 1     8-14       3
+06:  Freeze 2    12-17  *    5
+07#  Freeze 3    32-48  *   10
+08:  Freeze 4    65-85  *   17
+09:  Bolt 1       9-17       5
+0A#  Bolt 2      19-30  *    8
+0B#  Bolt 3      48-65  *   20
+0C:  Blast 1      7-10       2
+0D:  Blast 2     14-20  *    4
+0E:  Blast 3     35-47  *    8
+0F#  Burst 1      8-13  *    5
+10:  Burst 2     13-23  *    8
+11:  Burst 3     33-49  *   12
+12:  Quick 1       -    ?E   3
+13:  Quick 2       -    ?E   5
+14:  Slow 1        -         2
+15:  Slow 2        -    *    5
+16:  Muddle 1      -    *    3
+17:  Muddle 2      -    *    7
+18#  Sleep 1       -         4
+19:  Sleep 2       -    *    6
+1A:  Screen 1      -    *    4
+1B:  Desoul 1      -         8
+1C:  Heal 1        ?    ?E   3
+1D:  Heal 2        ?    ?E   5
+1E#  Heal 3        ?    ?E  10
+1F:  Revive 2      ?    ?E  35
+20:  Atk-Poison   ATK        -  "~ closes on _ and attacks!"
+21:  Atk-Poison   ATK        -  "~ lunges at _!"
+22:  Poison        -    *    -  "~ sprinkles the air with poison powder!"
+23#  Atk-Poison   ATK        -  "~ lashes out at _!"
+24:  Atk-Paral.   ATK        -  "~ closes on _ and attacks!"
+25:  Atk-Paral.   ATK        -  "~ lunges at _!"
+26:  Paralyze      -    *    -  "~ sprinkles the air with paralyzing powder!"
+27:  Paralyze      -    *    -  "~ spits out a paralyzing white mist!"
+28:  Atk-Sleep     -         -  "~ closes on _ and attacks!"
+29:  Sleep         -    *    -  "~ sprinkles the air with sleeping powder!"
+2A:  Sleep         -    *    -  "~ spits out a sleep-inducing grey mist!"
+2B:  Attack       ATK        -  "~ closes on _ and attacks!"
+2C:  Attack       ATK        -  "~ closes on _ and attacks!" (critical x2)
+2D:  Attack       ATK        -  "~ closes on _ and attacks!" (critical x1.5)
+2E#  Attack       ATK        -  "~ closes on _ and attacks!"
+2F#  Attack       ATK        -  "~ closes on _ and attacks!"
+30#  Attack       ATK        -  "~ closes on _ and attacks!"
+31#  Attack       ATK        -  "~ closes on _ and attacks!"
+32#  Attack       ATK        -  "~ closes on _ and attacks!"
+33:  Blaze       19-29  *    -  "~ unleashes a lungful of scorching hot air!"
+34:  Blaze       48-66  *    -  "Crimson flames blast forth from ~'s jaws!"
+35:  Blaze       90-128 *    -  "~ unleashes a white hot gas!"
+36:  Freeze      29-42  *    -  "~ exhales a freezing blast of icy breath!"
+37:  Freeze      61-83  *    -  "A freezing cloud billows from ~'s jaws!"
+38:  Freeze     109-160 *    -  "~ blows out a freezing gas!"
+39:  Idle          -         -  "~ ducks behind its shield!"
+3A:  Idle          -         -  "~ draws its robe tightly around its body!"
+3B:  Idle          -         -  "~ flexes its muscles!"
+3C:  Idle          -         -  "~ watches warily!"
+3D:  Idle          -         -  "~ waits for a chance to strike."
+3E#  Idle          -         -  "~ watches with wary eyes."
+3F:  Run           -         -  "~ turns and runs!"
+40:  Run           -         -  "~ warily backs away from battle."
+41:  Attack       15x        -  "The ~s suddenly shuffle their feet in an eerie dance!" (normal attack if alone)
+42:  Attack       10x        -  "The ~s attack as one massive force!" (normal attack if alone)
+43#  Blaze       47-68       -  "Acting as one, the ~s unleash their flames!" (normal attack if alone)
+44:  Drain MP     6-10       -  "~'s body shines with a strange aura!"
+45:  Drain MP     5-11       -  "~ furrows its brow in concentration!"
+46:  Summon        -         -  "~ howls for help!" (same type)
+47:  Summon        -         -  "~ howls for help!" (random from area)
+48:  Summon        -         -  "~ howls for help!" (Dreampuff)
+49#  Summon        -         -  "~ howls for help!" (3-7 Fungoids)
+4A:  Summon        -         -  "~ howls for help!" (Meat Zombie)
+4B:  Explode     72-109 *    -  "~'s body blows up like a balloon  :  ~ explodes!"
+4C:  Summon        -         -  "~ divides into two!" (same type)
+4D:  SleepAlt      -         -  "~ spews forth a thick, sticky web!"
+4E:  Attack       ATK        -  "~ kicks out at _!"
+4F:  Attack       ATK        -  "~ kicks out at _!" (critical x1.5)
+50:  Heal 1        ?    ?E   3
+51:  Heal 2        ?    ?E   5
+52:  Heal 3        ?    ?E  10
+53:  Attack       ATK        -  "~ lunges at _!"
+54:  Attack       ATK        -  "~ lashes out at _!"
+55:  Blast       30-43  *    -  "~ flaps its wings!"
+56:  Blast       46-63  *    -  "~ savagely flaps its wings!"
+57:  Attack       ATK        -  "~ hurls a massive boulder at _!"
+58:  Paralyze      -    *    -  "~ glares at you with bloodshot eyes!"
+59:  Blaze       51-74       -  "~ hurls a ball of flame at _!"
+5A:  Desoul 2      -        15
+5B:  Desoul        -    *    -  "~ howls in pain!"
+5C:  Atk-Death    ATK        -  "~ closes on _ and attacks!"
+5D:  Attack       ATK        -  "~ shoots an arrow!"
+5E:  FreezeAlt  163-237 *    -  "~ weaves a spell, DEMONBREATH!!!" (Dark Sol 2b)
+5F:  FreezeAlt   80-120 *    -  "~ weaves a spell, DEMONBREATH!!!" (Dark Sol 1)
+60:  Attack       ATK        -  "~ kicks out at _!" (critical x1.5, Dark Knight)
+61:  Bolt        33-47  *    -  "~ casts a Level 3 BOLT!" (Dark Sol 1)
+62:  Attack       ATK        -  "~ closes on _ and attacks!" (Dark Sol 2)
+63:  Blaze       17-26  *    -  "~ casts a Level 3 BLAZE!" (Dark Sol 2)
+64:  Bolt        34-49  *    -  "~ casts a Level 3 BOLT!" (Dark Sol 2)
+65:  Attack       ATK        -  "~ closes on _ and attacks!" (Dark Sol 2b)
+66-7F: Crash
++80: ?
+
+
+
+
+ID:                 ?? ??   C G  Type  Eq.  :  Price  :  Effects
+----------------------------------------------------------------
+00: BRONZE KNIFE   001 000  . .  Wpn   ***  :    100  :  ATK+  5
+01: SHORT SWORD    001 000  . .  Wpn   ***  :    200  :  ATK+ 10, Crit+  5
+02: SWORD          001 000  . .  Wpn   **.  :    750  :  ATK+ 20, Crit+ 10
+03: LONGSWORD      001 000  . .  Wpn   *..  :   2530  :  ATK+ 30, Crit+ 15
+04: BROADSWORD     001 000  . .  Wpn   *..  :   9000  :  ATK+ 50, Crit+ 20
+05: FIRESWORD      011 011  . .  Wpn   *..  :  12500  :  ATK+ 60, Crit+ 25
+06: STORM SWORD    011 011  . .  Wpn   *..  :  25000  :  ATK+ 70, Crit+ 30
+07: LIGHT BLADE    001 101  . .  Wpn   *..  :  65000  :  ATK+150, Crit+ 25
+08: DARKBLADE      011 001  C .  Wpn   *..  :  48000  :  ATK+160, Crit+ 60
+09: DREAM BLADE    011 011  C .  Wpn   *..  :  36500  :  ATK+175, Berserk
+0A: BRONZE SABER   001 000  . .  Wpn   *.*  :    300  :  ATK+ 15
+0B: STEEL SABER    001 000  . .  Wpn   *.*  :   1250  :  ATK+ 25
+0C: BATTLE HAMMER  001 000  . .  Wpn   .*.  :   8800  :  ATK+ 38
+0D: MITHRIL AXE    001 000  . .  Wpn   .*.  :  38000  :  ATK+120
+0E: ICE SABER      011 011  . .  Wpn   *..  :  15000  :  ATK+ 55
+0F: DARK SCIMITAR  001 000  C .  Wpn   *..  :  28000  :  ATK+120, Crit+120
+10: SHORT AXE      001 000  . .  Wpn   .*.  :    330  :  ATK+ 15
+11: BATTLE AXE     001 000  . .  Wpn   .*.  :   1380  :  ATK+ 23
+12: DOUBLE AXE     001 000  . .  Wpn   .*.  :   3200  :  ATK+ 30
+13: GREAT AXE      001 000  . .  Wpn   .*.  :  11800  :  ATK+ 45
+14: MITHRIL SWORD  001 000  . .  Wpn   *..  :  42000  :  ATK+125, Crit+ 50
+15: WOODSTAFF      001 000  . .  Wpn   .**  :    760  :  ATK+ 20
+16: FLAIL          001 000  . .  Wpn   .*.  :    800  :  ATK+ 12, Hits+1
+17: MORNINGSTAR    001 000  . .  Wpn   **.  :    350  :  ATK+ 18
+18: FIRESTAFF      011 011  . .  Wpn   ..*  :   2000  :  ATK+ 15
+19: ICESTAFF       011 011  . .  Wpn   ..*  :   3500  :  ATK+ 25
+1A: MERCY STAFF    010 011  . .  Wpn   .**  :  10000  :  ATK+ 35
+1B: ENDUROSTAFF    001 000  C .  Wpn   ..*  :   1000  :  ATK+ 15
+1C: DOOMSTAFF      001 011  C .  Wpn   .**  :  15000  :  ATK+105
+1D: MITHRIL ROD    001 000  . .  Wpn   .**  :  45000  :  ATK+100
+1E: WOODEN CLUB    001 000  . .  Wpn   **.  :    120  :  ATK+  6
+1F: WAR HAMMER     001 000  . .  Wpn   .*.  :  16500  :  ATK+ 90
+20: BRONZE LANCE   001 000  . .  Wpn   *..  :   5000  :  ATK+ 35
+21: IRON LANCE     001 000  . .  Wpn   *..  :  12000  :  ATK+ 75
+22: STEEL LANCE    001 000  . .  Wpn   *..  :  20000  :  ATK+100
+23: SHORT SPEAR    001 000  . .  Wpn   ***  :   2800  :  ATK+ 25
+24: LONG SPEAR     001 000  . .  Wpn   ***  :   9500  :  ATK+ 35
+25: BULLWHIP       001 000  . G  Wpn   ..*  :   2000  :  ATK+ 15
+26: THORNWHIP      001 000  . G  Wpn   ..*  :   5500  :  ATK+ 25
+27: STEELWHIP      001 000  . G  Wpn   ..*  :  13500  :  ATK+ 35
+28: HEXWHIP        001 000  C G  Wpn   ..*  :  20000  :  ATK+ 60
+29: GREAT FLAIL    001 000  . .  Wpn   .*.  :   7500  :  ATK+ 28, Hits+1
+2A: SUPER FLAIL    001 000  . .  Wpn   .*.  :  17500  :  ATK+ 25, Hits+2
+2B: DOOMBLADE      001 000  . .  Wpn   *..  :  24000  :  ATK+ 90, Crit+ 50
+2C: WOOD SHIELD    001 000  . .  Shld  ***  :   3500  :  DEF+ 20
+2D: DARK ARMOR     001 100  C .  Armr  *..  :  18000  :  DEF+100
+2E: FROST ARMOR    001 001  . .  Armr  *..  :   7500  :  DEF+ 64, Fir2% 66
+2F: THUNDER ARMOR  001 001  . .  Armr  *..  :  13800  :  DEF+ 70, Bolt% 66
+30: SUN ARMOR      001 001  . .  Armr  *..  :   5000  :  DEF+ 52, Fire% 66
+31: COTTON ROBE    001 000  . .  Armr  ***  :     80  :  DEF+  4
+32: WOVEN ROBE     001 000  . .  Armr  **.  :    200  :  DEF+  8
+33: FUR ROBE       001 000  . .  Armr  **.  :    450  :  DEF+ 16
+34: WORN ROBE      001 000  C .  Armr  ***  :     40  :  DEF+  2
+35: STRAW ROBE     001 000  . .  Armr  .**  :    250  :  DEF+  8
+36: HEMP ROBE      001 000  . .  Armr  .**  :    700  :  DEF+ 14
+37: LEATHER ROBE   001 000  . .  Armr  .**  :   1800  :  DEF+ 20
+38: LIGHTROBE      001 001  . .  Armr  .**  :  24000  :  DEF+ 44, C9 32
+39: MAGIC ROBE     001 001  . .  Armr  .**  :  16000  :  DEF+ 32, LUK%120
+3A: DARKROBE       001 000  C .  Armr  .**  :  22000  :  DEF+ 70
+3B: LEATHER ARMOR  001 000  . .  Armr  **.  :    700  :  DEF+ 20
+3C: CHAINMAIL      001 000  . .  Armr  **.  :   1200  :  DEF+ 26
+3D: BREASTPLATE    001 000  . .  Armr  **.  :   1850  :  DEF+ 32
+3E: BRONZE ARMOR   001 000  . .  Armr  **.  :   3200  :  DEF+ 40
+3F: IRON ARMOR     001 000  . .  Armr  *..  :   5600  :  DEF+ 48
+40: STEEL ARMOR    001 000  . .  Armr  *..  :  10000  :  DEF+ 58
+41: MITHRIL ARMOR  001 001  . .  Armr  **.  :  18000  :  DEF+ 68, LUK%120
+42: LIGHT ARMOR    001 101  . .  Armr  *..  :  36000  :  DEF+ 80, C9 32
+43: BRONZE SHIELD  001 000  . .  Shld  **.  :    700  :  DEF+ 18
+44: IRON SHIELD    001 000  . .  Shld  **.  :   2300  :  DEF+ 26
+45: STEEL SHIELD   001 000  . .  Shld  *..  :   6400  :  DEF+ 32
+46: LEATHERSHIELD  001 000  . .  Shld  **.  :    300  :  DEF+ 12
+47: LIGHT SHIELD   001 100  . .  Shld  *..  :  20000  :  DEF+ 50
+48: DARK SHIELD    001 000  C .  Shld  ***  :  27000  :  DEF+ 60, ATK% 50
+49: MITHRILSHIELD  001 001  . .  Shld  ***  :  10000  :  DEF+ 40, LUK%120
+4A: ELVEN HOOD     001 001  . .  Helm  .*.  :  14000  :  DEF+ 20, CE 32
+4B: CLOTH HOOD     001 000  . .  Helm  .**  :    120  :  DEF+  4
+4C: WOVEN HOOD     001 000  . .  Helm  .**  :    450  :  DEF+  8
+4D: FUR HOOD       001 000  . .  Helm  .**  :   1030  :  DEF+ 12
+4E: MAGIC HOOD     001 001  . .  Helm  .**  :   5800  :  DEF+ 18, CD 32
+4F: DARKHOOD       001 000  C .  Helm  .**  :  18000  :  DEF+ 35
+50: MITHRIL HOOD   001 000  . .  Helm  .**  :  11800  :  DEF+ 26
+51: LEATHER HELM   001 000  . .  Helm  *..  :    300  :  DEF+  8
+52: BRONZE HELM    001 000  . .  Helm  *..  :   1200  :  DEF+ 14
+53: IRON HELM      001 000  . .  Helm  *..  :   3400  :  DEF+ 20
+54: STEEL HELM     001 000  . .  Helm  *..  :   5980  :  DEF+ 25
+55: LIGHTHELM      001 100  . .  Helm  *..  :  19200  :  DEF+ 40
+56: DARKHELM       001 000  C .  Helm  *..  :  26400  :  DEF+ 50
+57: MITHRIL HELM   001 001  . .  Helm  **.  :   9800  :  DEF+ 32, CC 32
+58: ROYAL TIARA    001 100  . .  Helm  ***  :   1000  :  DEF+ 16
+59: MAGIC SHIELD   001 000  . .  Shld  ***  :  16500  :  DEF+ 35
+5A: MAGIC MAIL     001 000  . .  Armr  ***  :  30000  :  DEF+ 50
+5B: HERB           110 000  . .  Item  ...  :     12
+5C: DEPOISON       110 000  . .  Item  ...  :     15
+5D: ANGEL FEATHER  100 000  . .  Item  ...  :     24
+5E: WISDOM SEED    100 000  . .  Item  ...  :      8
+5F: DWARF'S KEY    000 100  . .  Item  ...  :    300
+60: RUNE KEY       000 100  . .  Item  ...  :    500
+61: FALSE IDOL     000 100  . .  Item  ...  :    500
+62: CELL KEY       000 100  . .  Item  ...  :   1000
+63: MYSTIC ROPE    000 100  . .  Item  ...  :    400
+64: TAMAYOSHI      000 000  C .  Helm  ***  :      3  :  DEF%  0, Berserk
+65: MITHRIL ORE    000 000  . .  Item  ...  :   4000
+66: HEAL RING      010 011  . .  Item  ...  :   9000  :  DEF%110 passive
+67: BARRIER RING   000 011  . .  Item  ...  :   7800  :  DEF%125 passive, MRate% 80 passive
+68: MAGIC RING     000 011  . .  Item  ...  :  12000  :  MRate% 75 passive
+69: DARK BLOCK     000 000  C .  Item  ...  :   4500
+6A: MAGIC MIRROR   000 011  . .  Item  ...  :   3500
+6B: HERB-WATER     000 011  . .  Item  ...  :   2200
+6C: FORBIDDEN BOX  000 011  . .  Item  ...  :   6000
+6D: HOLY WATER     010 011  . .  Item  ...  :   8600
+6E: HEALER FRUIT   110 000  . .  Item  ...  :    100
+6F: SMELLING SALTS 110 000  . .  Item  ...  :     30
+70: ORB OF TRUTH   000 101  . .  Item  ...  :   1500
+71: VIAL OF TEARS  000 100  . .  Item  ...  :   1000
+72: MEDALLION      000 101  . .  Item  ...  :   1800
+73: MAP 1          000 100  . .  Item  ...  :    500
+74: MAP 2          000 100  . .  Item  ...  :    500
+75: MIRACLE HERB   110 000  . .  Item  ...  :   8000
+76: MAIN GAUCHE    000 000  . .  Shld  **.  :    900  :  DEF+ 10, ATK+  8
+77: MADU           000 000  . .  Shld  **.  :   2500  :  DEF+ 20, ATK+ 15
+78: EARTH HAMMER   000 011  . .  Item  ...  :  40000
+79: SHOCK BOX      000 011  . .  Item  ...  :  50000
+7A: OGRE FLUTE     000 011  . .  Item  ...  :  60000
+7B: BLACK BOX      000 011  . .  Item  ...  :  65000
+7C: GAUNTLET       000 000  . .  Shld  *..  :    120  :  DEF+  6
+7D: GLASS ARMOR    010 000  C .  Armr  ***  :      2  :  DEF%  0, MRate%200
+7E: DEMON STAFF    000 001  . .  Wpn   ..*  :   6774  :  ATK+ 20
+
+
+Byte1
+	00-04: Item type (weapon,  Armr or, shield, helm, use)
+	+08: Target group
+	+10: ?
+	+20: ?
+	+40: ?
+	+80: Cursed
+Byte2
+	+01: Equippable (hero)
+	+02: Equippable (Milo)
+	+04: Equippable (Pyra)
+	+20: ?
+	+40: ?
+	+80: Cannot drop (unbreakable?)
+
+Effects
+	41:  % DEF   (passive)
+	4F:  % MRate (passive)
+	80:  + ATK
+	81:  + DEF
+	90:  + Critical
+	91:  + Hits
+	92:  Berserk
+	C0:  % ATK
+	C1:  % DEF
+	C3:  % LUK
+	C4:  % MRate Fire/?11
+	C5:  % MRate Fire/?11
+	C6:  % MRate Bolt
+	C9:  % MRate ?11/?12
+	CC:  % MRate ?09
+	CD:  % MRate ?10
+	CE:  % MRate ?11
+	CF:  % MRate
+
+	00-12: Effect type
+	+40: Value % (else +)
+	+80: Equipped only
+
+-----------------------------------------------------------------------------------------------
+
+00: BRONZE KNIFE   001 000  . .  Wpn   ***  :    100  :  ATK+  5
+1E: WOODEN CLUB    001 000  . .  Wpn   **.  :    120  :  ATK+  6
+01: SHORT SWORD    001 000  . .  Wpn   ***  :    200  :  ATK+ 10, Crit+  5
+0A: BRONZE SABER   001 000  . .  Wpn   *.*  :    300  :  ATK+ 15
+10: SHORT AXE      001 000  . .  Wpn   .*.  :    330  :  ATK+ 15
+17: MORNINGSTAR    001 000  . .  Wpn   **.  :    350  :  ATK+ 18
+02: SWORD          001 000  . .  Wpn   **.  :    750  :  ATK+ 20, Crit+ 10
+15: WOODSTAFF      001 000  . .  Wpn   .**  :    760  :  ATK+ 20
+16: FLAIL          001 000  . .  Wpn   .*.  :    800  :  ATK+ 12, Hits+1
+1B: ENDUROSTAFF    001 000  C .  Wpn   ..*  :   1000  :  ATK+ 15
+0B: STEEL SABER    001 000  . .  Wpn   *.*  :   1250  :  ATK+ 25
+11: BATTLE AXE     001 000  . .  Wpn   .*.  :   1380  :  ATK+ 23
+25: BULLWHIP       001 000  . G  Wpn   ..*  :   2000  :  ATK+ 15
+18: FIRESTAFF      011 011  . .  Wpn   ..*  :   2000  :  ATK+ 15
+03: LONGSWORD      001 000  . .  Wpn   *..  :   2530  :  ATK+ 30, Crit+ 15
+23: SHORT SPEAR    001 000  . .  Wpn   ***  :   2800  :  ATK+ 25
+12: DOUBLE AXE     001 000  . .  Wpn   .*.  :   3200  :  ATK+ 30
+19: ICESTAFF       011 011  . .  Wpn   ..*  :   3500  :  ATK+ 25
+20: BRONZE LANCE   001 000  . .  Wpn   *..  :   5000  :  ATK+ 35
+26: THORNWHIP      001 000  . G  Wpn   ..*  :   5500  :  ATK+ 25
+7E: DEMON STAFF    000 001  . .  Wpn   ..*  :   6774  :  ATK+ 20
+29: GREAT FLAIL    001 000  . .  Wpn   .*.  :   7500  :  ATK+ 28, Hits+1
+0C: BATTLE HAMMER  001 000  . .  Wpn   .*.  :   8800  :  ATK+ 38
+04: BROADSWORD     001 000  . .  Wpn   *..  :   9000  :  ATK+ 50, Crit+ 20
+24: LONG SPEAR     001 000  . .  Wpn   ***  :   9500  :  ATK+ 35
+1A: MERCY STAFF    010 011  . .  Wpn   .**  :  10000  :  ATK+ 35
+13: GREAT AXE      001 000  . .  Wpn   .*.  :  11800  :  ATK+ 45
+21: IRON LANCE     001 000  . .  Wpn   *..  :  12000  :  ATK+ 75
+05: FIRESWORD      011 011  . .  Wpn   *..  :  12500  :  ATK+ 60, Crit+ 25
+27: STEELWHIP      001 000  . G  Wpn   ..*  :  13500  :  ATK+ 35
+0E: ICE SABER      011 011  . .  Wpn   *..  :  15000  :  ATK+ 55
+1C: DOOMSTAFF      001 011  C .  Wpn   .**  :  15000  :  ATK+105
+1F: WAR HAMMER     001 000  . .  Wpn   .*.  :  16500  :  ATK+ 90
+2A: SUPER FLAIL    001 000  . .  Wpn   .*.  :  17500  :  ATK+ 25, Hits+2
+28: HEXWHIP        001 000  C G  Wpn   ..*  :  20000  :  ATK+ 60
+22: STEEL LANCE    001 000  . .  Wpn   *..  :  20000  :  ATK+100
+2B: DOOMBLADE      001 000  . .  Wpn   *..  :  24000  :  ATK+ 90, Crit+ 50
+06: STORM SWORD    011 011  . .  Wpn   *..  :  25000  :  ATK+ 70, Crit+ 30
+0F: DARK SCIMITAR  001 000  C .  Wpn   *..  :  28000  :  ATK+120, Crit+120
+09: DREAM BLADE    011 011  C .  Wpn   *..  :  36500  :  ATK+175, Berserk
+0D: MITHRIL AXE    001 000  . .  Wpn   .*.  :  38000  :  ATK+120
+14: MITHRIL SWORD  001 000  . .  Wpn   *..  :  42000  :  ATK+125, Crit+ 50
+1D: MITHRIL ROD    001 000  . .  Wpn   .**  :  45000  :  ATK+100
+08: DARKBLADE      011 001  C .  Wpn   *..  :  48000  :  ATK+160, Crit+ 60
+07: LIGHT BLADE    001 101  . .  Wpn   *..  :  65000  :  ATK+150, Crit+ 25
+
+31: COTTON ROBE    001 000  . .  Armr  ***  :     80  :  DEF+  4
+32: WOVEN ROBE     001 000  . .  Armr  **.  :    200  :  DEF+  8
+35: STRAW ROBE     001 000  . .  Armr  .**  :    250  :  DEF+  8
+33: FUR ROBE       001 000  . .  Armr  **.  :    450  :  DEF+ 16
+36: HEMP ROBE      001 000  . .  Armr  .**  :    700  :  DEF+ 14
+3B: LEATHER ARMOR  001 000  . .  Armr  **.  :    700  :  DEF+ 20
+3C: CHAINMAIL      001 000  . .  Armr  **.  :   1200  :  DEF+ 26
+37: LEATHER ROBE   001 000  . .  Armr  .**  :   1800  :  DEF+ 20
+3D: BREASTPLATE    001 000  . .  Armr  **.  :   1850  :  DEF+ 32
+3E: BRONZE ARMOR   001 000  . .  Armr  **.  :   3200  :  DEF+ 40
+30: SUN ARMOR      001 001  . .  Armr  *..  :   5000  :  DEF+ 52, Fire% 66
+3F: IRON ARMOR     001 000  . .  Armr  *..  :   5600  :  DEF+ 48
+2E: FROST ARMOR    001 001  . .  Armr  *..  :   7500  :  DEF+ 64, Fir2% 66
+40: STEEL ARMOR    001 000  . .  Armr  *..  :  10000  :  DEF+ 58
+2F: THUNDER ARMOR  001 001  . .  Armr  *..  :  13800  :  DEF+ 70, Bolt% 66
+39: MAGIC ROBE     001 001  . .  Armr  .**  :  16000  :  DEF+ 32, LUK%120
+41: MITHRIL ARMOR  001 001  . .  Armr  **.  :  18000  :  DEF+ 68, LUK%120
+2D: DARK ARMOR     001 100  C .  Armr  *..  :  18000  :  DEF+100
+3A: DARKROBE       001 000  C .  Armr  .**  :  22000  :  DEF+ 70
+38: LIGHTROBE      001 001  . .  Armr  .**  :  24000  :  DEF+ 44, C9 32
+5A: MAGIC MAIL     001 000  . .  Armr  ***  :  30000  :  DEF+ 50
+42: LIGHT ARMOR    001 101  . .  Armr  *..  :  36000  :  DEF+ 80, C9 32
+
+7C: GAUNTLET       000 000  . .  Shld  *..  :    120  :  DEF+  6
+46: LEATHERSHIELD  001 000  . .  Shld  **.  :    300  :  DEF+ 12
+43: BRONZE SHIELD  001 000  . .  Shld  **.  :    700  :  DEF+ 18
+76: MAIN GAUCHE    000 000  . .  Shld  **.  :    900  :  DEF+ 10, ATK+  8
+44: IRON SHIELD    001 000  . .  Shld  **.  :   2300  :  DEF+ 26
+77: MADU           000 000  . .  Shld  **.  :   2500  :  DEF+ 20, ATK+ 15
+2C: WOOD SHIELD    001 000  . .  Shld  ***  :   3500  :  DEF+ 20
+45: STEEL SHIELD   001 000  . .  Shld  *..  :   6400  :  DEF+ 32
+49: MITHRILSHIELD  001 001  . .  Shld  ***  :  10000  :  DEF+ 40, LUK%120
+59: MAGIC SHIELD   001 000  . .  Shld  ***  :  16500  :  DEF+ 35
+47: LIGHT SHIELD   001 100  . .  Shld  *..  :  20000  :  DEF+ 50
+48: DARK SHIELD    001 000  C .  Shld  ***  :  27000  :  DEF+ 60, ATK% 50
+
+4B: CLOTH HOOD     001 000  . .  Helm  .**  :    120  :  DEF+  4
+51: LEATHER HELM   001 000  . .  Helm  *..  :    300  :  DEF+  8
+4C: WOVEN HOOD     001 000  . .  Helm  .**  :    450  :  DEF+  8
+58: ROYAL TIARA    001 100  . .  Helm  ***  :   1000  :  DEF+ 16
+4D: FUR HOOD       001 000  . .  Helm  .**  :   1030  :  DEF+ 12
+52: BRONZE HELM    001 000  . .  Helm  *..  :   1200  :  DEF+ 14
+53: IRON HELM      001 000  . .  Helm  *..  :   3400  :  DEF+ 20
+4E: MAGIC HOOD     001 001  . .  Helm  .**  :   5800  :  DEF+ 18, CD 32
+54: STEEL HELM     001 000  . .  Helm  *..  :   5980  :  DEF+ 25
+57: MITHRIL HELM   001 001  . .  Helm  **.  :   9800  :  DEF+ 32, CC 32
+50: MITHRIL HOOD   001 000  . .  Helm  .**  :  11800  :  DEF+ 26
+4A: ELVEN HOOD     001 001  . .  Helm  .*.  :  14000  :  DEF+ 20, CE 32
+4F: DARKHOOD       001 000  C .  Helm  .**  :  18000  :  DEF+ 35
+55: LIGHTHELM      001 100  . .  Helm  *..  :  19200  :  DEF+ 40
+56: DARKHELM       001 000  C .  Helm  *..  :  26400  :  DEF+ 50
+
+
+
+
+
+               Area     MaxHP+Reg  ATK DEF SPD    EXP   GP   MRate SRate  2x  Special
+
+Slimy Ooze     1a-1b        8       15  10  10      1    2   33333 333.3
+Cave Slug      1a-1b        8       17  12  11      1    2   33333 333.3
+Pit Worm       1a-1b       10       19   9   9      1    3   33333 333.3
+Man-Ape        1b-2a       11       23  11  12      2    4   33333 322.2
+Dark Jelly     1b-2a       10       25  12  13      3    5   33333 322.2
+Darkbat        1c-2b       12       31  12  15      3    6   33333 332.2
+Killerbee      1c-2b       13       33  13  16      4    7   33333 333.2      [1/4] Poison attack
+
+Scavenger      2a-2c       11       38  16  14      4    8   13333 32222      [2/4] Blaze 1
+Mad Gnome      2a-2c       14       40  16  16      5    7   33333 322.2
+Dark Hermit    2b-2d       15       41  17  18      6    7   33333 32122
+Neanderthal    2b-2d       18       43  15  19      7    9   33333 322.2
+Widowfang      2c-2e       16       45  16  20      8   11   33333 322.2      [2/5] Poison attack
+Cave Goblin    2c-2e       16       47  16  22      8   13   33333 322.2      [2/5] Critical 1.5
+Triklops       2d-2f       17       50  14  25      9   17   33333 322.2      [2/5] Drain MP (6-10)
+Vampyre        2d-2f       18       53  16  27     12   13   33333 322.2      [2/5] Paralyze attack
+Skeletar       2e-3a       20       56  17  30     13   16   33333 322.2      [2/6] Poison attack
+Punkinhead     2e-3a       19       54  15  33     14   18   33333 32222      [***] Heal 1
+Vile Ooze      2f-3b       22       58  18  38     16   21   33333 32222      [2/5] Freeze 1
+Deathguide     2f-3b       24       57  15  40     19   19   33333 322.2      [2/6] Sleep all
+
+Stinger        3a-3c       23       63  19  39     18   20   33333 32222      [2/6] Slow 1
+Killer Gnome   3a-3c       25       65  21  45     19   22   33333 32222      [2/6] Summon (self)
+Wild Orc       3b-3d       25       65  20  42     20   23   33333 222.1      [2/6] Idle,  [1] Critical 2
+Clodhopper     3b-3d       24       72  18  47     22   26   33333 12222      [1/5] Critical 1.5
+Hydrax         3c-4a       23       67  22  43     21   19   22222 322.2      [2/6] Paralyze all
+Nightstalker   3c-4a       26       77  19  48     24   27   32332 322.2      [2/5] Blaze* (19-29)
+Grimfowl       3d-4b       27       83  24  50     26   24   33333 32222      [2/5] Paralyze attack
+Minotaur       3d-4b       29       86  21  46     28   25   33333 22222      [2/5] Quick 1
+
+Dark Wing      4a-4c       32       82  23  49     33   24   33333 32222      [2/5] Poison attack
+Toadstool      4a-4c       34       89  26  52     36   22   22222 321.2      [2/5] Idle,  [1] Sleep attack,  [1] Sleep all
+Deathgrin      4b-4d       31       96  27  54     39   32   33333 322.2      [2/5] Critical 1.5
+Bullsnout      4b-4d       36       94  25  50     37   24   33333 322.2      [***] Heal 2
+Tombwalker     4c-4e       34       97  28  55     42   28   32233 222.1      [2/5] Paralyze attack,  [1] Paralyze all,  [1] Idle
+Death Rattler  4c-4e       37      102  30  57     50   30   33333 321.2
+Dark Wizard    4d-5a       35      100  29  61     66   37   33322 12121      [2/5] Blast 1,  [2] Screen 1
+Ostrik         4d-5a       38      105  31  59     58   35   33333 2...2      [***] Massive force (10 each)
+Jackobutch     4e-5a       40      115  32  63     73   41   33333 21221      [3/5] Heal 1
+War Lizard     4e-5a       39      123  40  67     85   52   22222 31122      [2/5] Quick 1
+
+Tarantia       5a-5c       43      132  34  68     97   59   33333 221.1      [2/5] Sticky webbing (Sleep all)
+Smoke          5a-5c       41      124  29  65     89   55   11122 111.2      [2/6] Freeze* (29-42),  [1] Slow 1
+Mazerunner     5b-5d       42      128  38  71    108   62   33333 212.1      [2/5] Critical 1.5
+Nightwraith    5b-5d       45      130  38  72    120   65   23333 32222      [1/2] Blaze 2
+Cokatoris      5c-6a       46      132  35  73    127   70   33333 222.1      [2/5] Paralyze attack
+Sorceror       5c-6a       41      129  32  71    132   72   22133 11111      [2/6] Bolt 1,  [2] Idle
+Driffid        5d-6a       51      138  36  70    138   74   23233 112.1      [2/6] Sleeping mist,  [2] Idle
+Fungoid        5d-6a       44      135  35  69    114   67   33222 222.2      [2/5] Summon (self),  [1] Poison powder
+
+Deadhead       6a-6b       55      140  41  68    146   76   31233 22121      [1/3] Muddle 1,  [1] Idle
+Reaper         6b          49      135  38  72    155   89   33333 12211      [2/6] Desoul 1,  [1] Run
+Maligator      6b-6c       60      155  42  70    163   84   23333 211.2      [2/5] Blaze* (19-29)
+Billow         6b-6c       57      140  37  73    165   73   22222 22211
+Mantoro        6b-6d       62      152  43  70    170   85   33333 111.1
+Demi-Wight     6b-6d       59      146  47  72    175   88   31222 22221      [1/5] Burst 2,  [1] Blast 2
+Berserker      6b-6d       65      160  45  75    180   91   33333 121.2      [3/6] Critical 1.5
+Salamander     6c-7a       67      172  47  71    220  120   13232 121.1      [2/4] Blaze* (48-66)
+Mandrake       6c-7a       60      154  46  74    200  101   22222 22222      [***] Heal 1,  Drain MP (5-11)
+Kamil          6d-7b       63      165  50  77    240   97   33322 1...2      [***] Eerie dance (15 each),  Summon (self)
+Deathserpent   6d-7b       63      180  51  76    270  115   13333 222.2      [2/5] Blaze 3
+Wingblade      6d-7b       68      187  54  74    300  115   33333 111.1      [1/5] Idle
+
+Tommyhawk      7a-7c       70      195  57  80    330  108   33322 111.1      [1/5] Idle
+Grim Specter   7a-7c       65      190  55  78    380  124   32233 111.1      [2/5] Desoul 1
+Hellknight     7b-7d       72      200  59  75    430  128   22233 211.1      [2/5] Critical 2
+Battle Oxe     7b-7d       70      205  52  76    470  130   33333 111.2      [2/5] Freeze* (29-42)
+Mad Tut        7b-7d       73      211  51  81    500  138   33333 321.2      [2/5] Slow 2
+Bloodrooster   7c-7e       75      215  60  83    560  153   33333 222.2      [2/5] Bloodshot eyes (Paralyze all)
+Living Dead    7c-7e       60      220  90  70    600  185   31233 222.2      [2/5] Poison powder
+Dreampuff      7d-7e       64      222  85  85    640  210   22222 1...2      [***] Massive force (10 each),  Summon (self)
+Troll          7d-8a       76      228  73  72    670  165   33333 222.2
+Gryphon        7d-8a       74      225  68  80    710  230   33322 122.2      [2/6] Blast* (30-43),  [1] Run
+Demonika       7e-8a       78      230  70  78    770  265   33333 221.1  +
+Necromancer    7e-8a       70      225  65  87    820  250   32333 212.1  *   [-->] Heal 2,  Summon (Meat Zombie),  Idle
+
+Living Armor   8a-8b       65      240 120  82    950  230   11111 11111      [2/6] Quick 1,  [2] Critical 2
+Dragonspawn    8a-8b       80      250  58  76    900  270   13323 221.1      [2/5] Blaze (51-74)
+Vyper          8a-8b       83      236  76  90    930  302   33333 222.2      [***] Bloodshot eyes (Paralyze all)
+Warbird        8a-8b       77      255  80  83    970  310   33322 222.2      [2/5] Blast* (30-43)
+Deathbringer   8b-8c       85      238  70  80   1010  380   11111 2211.      [2/5] Revive 2,  [2/5] Idle
+Mandagora      8b-8c       78      250  74  85   1060  420   33333 22221      [2/6] Idle,  [2] Desoul*,  [2] Heal 2
+Cerebus        8c          80      260  88  88   1100  450   22333 222.2  +   [2/6] Blaze* (48-66)
+Meat Zombie    8c-8d       90      248  82  84   1250  390   32222 222.2      [3/6] Poison attack
+Troglodyte     8c-8d       95      265  72  86   1300  510   31222 221.1      [2/5] Freeze* (61-83)
+Deathmask      8c-8d      102      280  76  90   1330  470   33333 221.1      [3/6] Instant death attacks
+Gollum         8d          92      320 120  82   1460  590   22222 222.1      [2/6] Critical 1.5
+Lancerot       8d-9a      110      268  85  88   1500  450   33333 11121  +   [2/6] Slow 2
+Hobgoblin      8d-9a      105      300  73  85   1570  480   33333 122.1
+
+Hellhound      9a-9b      108      290  70  91   1640  620   33333 211.1  +
+Gargoyle       9a-9b       93      274  84  87   1680  550   33333 21121      [2/5] Muddle 2
+Ghoul          9a-9b       96      280  78  74   1720  660   31232 122.1      [2/6] Paralyze all
+Graveroc       9b-9c       99      288  86  90   1860  760   33332 221.1      [2/6] Blast* (46-63)
+Chimera        9b-9c      104      300  92  86   1940  980   31333 222.1      [2/5] Freeze (61-83)
+Centaurian     9c         130      310  75  94   1680  790   33333 222.1
+Collussus      9c-9d      120      350 110  89   2030  830   33333 221.1
+Dragonfyre     9c-9d      110      295  85  92   2100  830   13322 122.1      [2/5] Blaze* (90-128)
+Deathpaw       9c-9d      109      305  65  96   2270  962   33333 11111  +   [2/6] Muddle 2
+Lokjaw         9d-9e      118      320  80  95   2450 1000   33322 12211      [2/6] Screen 1,  [1] Blast 3,  [1] Burst 3
+Kamiliun       9d-9e      106      340  87  91   2520 1120   33333 22121      [2/6] Sleep 2
+Demonesk       9d-9e      125      298  79  95   2600 1030   21232 12211      [2/6] Freeze* (109-160)
+Ragnarock      9e-9f      140      400  70  93   2800 1350   33333 111.1
+Serpi          9e-9f      115      310  80  90   2900 1400   22232 121.1      [2/6] Desoul 2 (single)
+Warhorse       9e-9f      130      350  90 100   2110 1230   33333 222.1      [3/6] Critical 1.5
+Ramiun         9f         150      360  95  96   3200 1200   13222 221.1      [2/6] Blaze* (90-128)
+Brimstone      9f         160      336  76 100   3580 1500   22222 11111      [2/6] Muddle 2
+Crystal Ooze   9f           3      250 500 300  30000 5000   ..... .....      [2/6] Run,  [1] Freeze 4,  [1] Summon (random),  [1] Muddle 2
+
+========================================================================
+Kaiser Krab    1c-2e 12    50       63  36  20     40   50   33333 311.1  +   [2/5] Critical 1.5  -  Tiara: [2/6], no 2x
+Chestbeak      2b-2d 15   100      112  32  30     85   60   11111 111.1      [2/6] Sleeping mist,  [2] Sleep attack
+Killwave       2d-3d 15    65       30  20  22     50   30   33333 22121  +   [2/6] Freeze 2
+Cyblok         3b-3d 23    80      100  40  38     80   50   32222 321.1
+Grimwall       4a-8c 25    65      140  45  72    150  100   22222 211..  +   [2/6] Critical 1.5
+Sea Stallion   4b-8a 25   100      172  50  72    250  120   23333 111.1  +   [2/6] Freeze* (29-42)
+Ghost          4c-4e 23   120      181  56  63    160   90   11111 111.1      [2/6] Desoul 1
+Krusher        5c-5d 25   200      230  60  70    350  200   33333 3.3.3      [2/6] Critical 2
+Brikeye        6a-6b 30   100      170  65  72    200  250   33333 21121      [2/6] Heal 2,  [2] Paralyze attack
+Sentinel       6b-6d 27   180      236  80  67    430  250   22222 111.1  +   [4/6] Critical 1.5
+Kromeball      6c-6d 30   300      271  70  75    500  300   33333 22211  +   [2/6] Explode* (72-109)
+Headhunter     6d-7a 30   300      281  67  83    600  300   22222 111.1  +   [2/6] Poison attack
+Scizzar        7c-8b 40   300      278 115  78   1000  600   11111 311.1      [2/6] Freeze* (61-83)
+Soulthief      7d-8d 35   400      291  75  87    700  400   33333 111.1  +   [2/6] Sleep attack
+Blackbone      7e-9b 45   300+ 50  380 100  93   3000 2500   31222 1....  +   [2/6] Critical 1.5
+Handeater      8d-9d 45   100      366 160  92   1500  500   11111 1....      [2/6] Freeze* (61-83),  [2] Desoul*
+Bildblok       7x-9f 45   350+ 50  320  90  92   2500 1000   22222 111..      [2/6] Freeze* (109-160),  [2] Bloodshot eyes (Paralyze all)
+Syren          8d-9d 42   354+ 50  350  80 100   3400 2900   12221 11111  +   [2/6] Muddle 1,  [1] Critical 1.5,  [1] Paralyzing mist
+Guardian       8x-9f 43   480      400 140 105   4500 3000   33333 111.1  *   [1/6] Critical 2
+------------------------------------------------------------------------
+Tortolyde      3.          75      100  45  64    100   80   33333 11121  +   [3/6] Quick 1,  [1] Heal 1
+Doppler        4e         142      160  60  65    300  130   33333 212.1      [1/6] Critical 2,  [1] Sleep attack,  [1] Idle
+Shellbeast     7b         370      250  90  75   1500  500   33333 221.1      [***] Blaze* (48-66)
+Dark Knight    8d        1000+100  350  90 140   1000    0   22222 .....  +   [***] Critical 1.5
+------------------------------------------------------------------------
+Dark Sol       9f        1500      380  86 110               33333 .....      [4/6] Demonbreath* (80-120),  [2] Bolt* (33-47)
+
+Dark Demon               2500+100  430  86 160               33333 .....  +   [1/3] Blaze* (17-26),  [1] Bolt* (34-49)
+                Phase2  <1200      537                                    +   [2/3] Demonbreath* (163-237)
+
+
+Enemy zone levels
+
+1:   3  4  6
+2:   7  8  9 10 11 12
+3:  13 13 14 15
+4:  16 17 18 19 20
+5:  21 22 23 24
+6:  25 26 27 28
+7:  29 30 31 32 33
+8:  34 35 36 37
+9:  38 40 42 43 44 45
+
+
+
+HERO-MILO-PYRA-TTTTTTTTTTTDDFFGGKK
+
+
+      LV1       +  Gain per level (8-14% rounded)
+ 
+HP    24 20 16  +  70 55 50
+MP     0  7 10  +   0 50 52  (after LV40:  0 30 30)
+Atk   18 13  8  +  35 25 18
+Spd    8 10 12  +  20 30 40
+Luck   6 12 10  +  15 30 25
+IQ     8 15 10  +  30 40 50
+ 
+ 
+ 
+Magic gains:
+ 
+         Milo               Pyra
+By LV
+      1: Heal 1          1: Slow 1, View
+      3: Vision          2: Blaze 1
+      5: Detox 1         4: Sleep 1
+      9: Blast 1         6: Freeze 1
+     12: Quick 1         8: Heal 1
+     14: Burst 1        12: Egress
+     16: Screen 1       15: Bolt 1
+     20: Revive 1       17: Muddle 1
+     23: Desoul 1       19: Peace
+                        22: Boost 1
+By IQ
+     35: Heal 2         50: Blaze 2
+     75: Detox 2        80: Freeze 2
+     83: Blast 2        85: Slow 2
+     91: Quick 2        99: Sleep 2
+     99: Burst 2       106: Blaze 3
+    105: Heal 3        128: Heal 2
+    111: Blast 3       135: Freeze 3
+    119: Screen 2      152: Bolt 2
+    127: Burst 3       176: Blaze 4
+    135: Heal 4        188: Boost 2
+    147: Blast 4       195: Freeze 4
+    152: Desoul 2      203: Bolt 3
+    159: Revive 2      237: Muddle 2
+    171: Burst 4       248: Bolt 4
+ 
+ 
+ 
+Level EXP
+ 
+LV:    Hero    Milo     Pyra
+------------------------------
+ 1:        0        0        0
+ 2:       12       15       14
+ 3:       34       42       39
+ 4:       67       83       77
+ 5:      116      144      133
+ 6:      188      234      215
+ 7:      294      366      335
+ 8:      448      558      509
+ 9:      669      834      759
+10:      987     1231     1118
+11:     1439     1795     1628
+12:     2082     2597     2353
+13:     2986     3725     3373
+14:     4187     5223     4728
+15:     5782     7213     6528
+16:     7900     9856     8919
+17:    10713    13336    12095
+18:    14449    18028    16313
+19:    19411    24220    21915
+20:    25303    31573    28567
+21:    32300    40305    36446
+22:    40609    50674    45846
+23:    50476    62987    56985
+24:    62193    77609    70213
+25:    76107    94973    85921
+26:    92630   115593   104574
+27:   112251   140079   126724
+28:   133711   166861   150951
+29:   157183   196154   177449
+30:   182856   228193   206431
+31:   210936   263236   238130
+32:   241649   301564   272801
+33:   275241   343485   310722
+34:   311982   389336   352198
+35:   351019   438053   396266
+36:   392496   489815   438053
+37:   436565   544812   492836
+38:   483388   603246   545693
+39:   533137   665332   601854
+40:   585995   731298   661525
+41:   642157   801387   724925
+42:   700074   873666   790306
+43:   759801   948204   857730
+44:   821394  1025071   927261
+45:   884912  1104340   998965
+46:   950415  1186086  1072910
+47:  1017965  1270387  1149166
+48:  1087626  1357322  1227805
+49:  1159464  1446974  1308901
+50:  1233547  1539428  1392531
+51:  1309945  1634771  1478774
+52:  1388730  1733093  1567712
+53:  1469977  1834488  1659429
+54:  1553763  1939052  1754012
+55:  1640167  2046884  1851551
+56:  1729271  2158086  1952138
+57:  1821160  2272763  2055868
+58:  1915921  2391024  2162840
+59:  2013643  2512981  2273155
+60:  2114419  2638749  2386917
+61:  2218344  2768447  2504234
+62:  2323893  2900172  2623384
+63:  2431091  3033955  2744396
+64:  2539964  3169828  2867299
+65:  2650538  3307824  2992122
+66:  2762840  3447976  3118895
+67:  2876897  3590318  3247649
+68:  2992736  3734884  3378415
+69:  3110385  3881709  3511224
+70:  3229872  4030828  3646108
+71:  3351226  4182277  3783100
+72:  3474476  4336092  3922233
+73:  3599652  4492310  4063540
+74:  3726784  4650969  4207055
+75:  3855902  4812107  4352812
+76:  3987037  4975763  4500846
+77:  4120221  5141976  4651193
+78:  4255486  5310786  4803889
+79:  4392865  5482234  4958971
+80:  4532391  5656361  5116476
+81:  4674097  5833209  5276442
+82:  4818017  6012820  5438907
+83:  4964186  6195237  5603911
+84:  5112639  6380504  5771493
+85:  5263412  6568666  5941693
+86:  5416541  6759768  6114552
+87:  5572063  6953856  6290112
+88:  5730015  7150977  6468415
+89:  5890435  7351178  6649504
+90:  6053362  7554507  6833423
+91:  6218835  7761013  7020216
+92:  6386894  7970746  7209928
+93:  6557579  8183756  7402604
+94:  6730931  8400094  7598291
+95:  6906992  8619812  7797036
+96:  7085804  8842963  7998886
+97:  7267410  9069601  8203890
+98:  7451854  9299780  8412097
+99:  7639180  9533556  8623557
+
+
+Trevi
+
+Postby sulfuroxp » Fri May 14 2021 3:07am
+(at 1:22)
+https://www.youtube.com/watch?v=qfZJ6dg9mKo
+
+私は 泉のせい トレビー
+That's what the spirit of the fountain say in japanese, her name is Trevi or Torebi
+トレビー is also used in japanese for Scindapsus treubii
+
+Maybe it's not the only spirit with a name in the franchise (SF1 for example)
+
+
+https://archive.org/search.php?query=shining%20sega
+
+
+
+
+you get four items at the chemists if you reach a specific (high) level.
+getting the Hero to L65, L75, L85 and L95 
+EARTH HAMMER (lvl ~64), SHOCK BOX (lvl ~74), OGRE FLUE (lvl ~84) and BLACK BOX (lvl ~94/95)." 
+
+
+
+In certain parts of the labyrinth (Cave of Courage for example) there is this ooze on the ground that drains Milo's and Pyra's MP. When such a path with ooze makes a turn, turning your characters there also drains MP. But if you first bump into the wall you are facing, before making the turn, this does not happen. 	
+
+
+
+
+Re: some doubts & rumors...
+
+Postby Cullsoft » Tue Feb 17 2009 12:18am
+MXC's nearly got it all.
+
+- Here's the list I made some time ago of Forbidden Box effects. It may not be complete.
+CODE EFFECTS:
+- A Faerie appears from within the box! (Restores full HP)
+- A Black Hole is released from the box! (Black Box)
+- The air resonates to a strange melody. The monster begins to leap about wildly! (Enemy proceeds to wiggle back and forth)
+- Nothing happens.
+- A haunting melody rings out seemingly from nowhere. (Everyone falls asleep)
+- The ground quakes violently! (Damages all enemies for varying amounts (~50 to ~120))
+- A voice booms out "May the one who opens the FORBIDDEN BOX learn the meaning of power!" (Enemies shimmer) The enemies' power increases!
+- [OPENER] suddenly feels dizzy! (Screen shakes and fades white) [OPENER] falls unconscious to the ground (asleep)!
+- Calling up a deep fog around the immediate area. (Screen fades white - L1 muddle to enemies and party)
+- "May the one who opens the FORBIDDEN BOX learn the meaning of power!" (Ogre Flute effect)
+- A voice echoes from the depths of the earth. "Beware mortals: this box holds your doom!" (Russian Roulette) The forbidden box unleashes the wrath of the Ancients! [Damagee] suffers 150pts of damage!
+- A Witch appears from within the box! (Witch appears) The Witch casts a SUPER-QUICK spell! (Blue flash) You're granted super-speed!
+- From far above, a voice rings out. "May the one who opens this FORBIDDEN BOX learn the meaning of Power!" (Ogre Flute effect)
+- From far above, a voice rings out. "May the one who opens this FORBIDDEN BOX learn the meaning of Power!" (One enemy is destroyed)
+- Lightning flashes from the box! (Shock Box) 
+
+
+
+AAKT-AAFR	Cotton robe costs nothing.
+AAKT-AAF0	Woven robe costs nothing.
+AAKT-AAGR	Straw robe costs nothing.
+AAKT-AAF8	Fur robe costs nothing.
+AAKT-AAG0	Hemp robe costs nothing.
+AAKT-AAH8	Leather armor costs nothing.
+AALA-AAAG	Chain mail costs nothing.
+AALA-AAA0	Bronze armor costs nothing.
+AALT-AAG0	Main gauche costs nothing.
+AALT-AAG8	Madu costs nothing.
+AAMA-AAAG	Gauntlet costs nothing.
+AALA-AAC0	Leather shield costs nothing.
+AALA-AAB8	Bronze shield costs nothing.
+AALA-AAD8	Cloth hood costs nothing.
+AALA-AAFR	Leather helm costs nothing.
+AALA-AAEG	Woven hood costs nothing.
+AALA-AAER	Fur hood costs nothing.
+AALA-AAF0	Bronze helm costs nothing.
+AALA-AAF8	Iron helm costs nothing.
+AAKA-AABG	Bronze knife costs nothing.
+AAKT-AAA0	Wooden club costs nothing.
+AAKA-AABR	Short sword costs nothing.
+AAKA-AAD0	Bronze saber costs nothing.
+AAKA-AAFG	Short axe costs nothing.
+AAKA-AAB0	Sword costs nothing.
+AAKA-AAGR	Woodstaff costs nothing.
+AALA-AAH8	Herb costs nothing.
+AALT-AAAG	Depoison costs nothing.
+AALT-AAAR	Angel feather costs nothing.
+AALT-AAA0	Wisdom seed costs nothing.
+AALT-AAE0	Healer fruit costs nothing.
+AALT-AAE8	Smelling salts costs nothing.
+AA0T-EAAT	Room for the night costs nothing.
+NT0T-AACN	Start new game with 100 Attack
+1T0T-AECN	Start new game with 700 Attack
+NT0T-AACW	Start new game with 50 Defense, 100 Speed
+1T0T-AECW	Start new game with 350 Defense, 700 Speed
+NT0T-AAC8	Start new game with 100 IQ
+1T0T-AEC8	Start new game with 700 IQ
+NT0T-AAC2	Start new game with 100 Luck
+1T0T-AEC2	Start new game with 700 Luck
+NT0T-AADN	Start new game with 100 EXP
+1T0T-AEDN	Start new game with 700 EXP
+GJTA-EAB2	Minister gives you 50 gold instead of 200
+BTTA-ECB2	Minister gives you 500 gold
+VATA-FGB2	Minister gives you 5000 gold
+ZATA-EC32	Minister gives you 25000 gold
+
+NT0T-AAB4 + NT0T-AACG	Start new game with 100 MP
+3A0T-AAB4 + 3A0T-AACG	Start new game with 200 MP
+NT0T-AABY + NT0T-AACA	Start new game with 100 HP
+W0AT-ACBY + WA0T-ACCA	Start new game with 400 HP
+660T-AGBY + 660T-AGCA	Start new game with 999 HP
+
+
+
+
+ Huge Cash Bonus
+Go to a repair shop with a magic item (it must have lost it's power already). If you can't afford the repair job, drop off the object, go to sleep and return to collect it the next day. You'll get a huge cash bonus for doing this.
+I've never actually been able to try it myself, because I can always afford the repair, but I've heard that it does work.
+
+Equip Pyra with the Tiara
+There is also a way to equip Pyra with the TIARA: the best way to do this is to save your game but don't quit, talk to the guy who gives you 200 gold coins for the Tiara and then press reset on the system.That way you get to keep the money and the Tiara! Equip it on PYRA. This is her permanent head gear. It's very strong. 
+
+
+
+
+
+
+
+
+
+
+
+Also, I discovered how magic rings work - There are 5 secret values, that make up 'magic resistance' The magic ring takes this value, and multiplies it by .75. 
+
+Mortred has had a misreported HP in every FAQ I've read. He actually starts with approximately 1000 HP. The reason that it is misreported, is that he silently gains 100 HP (fixed) per round, with a maximum of 1000 HP (fixed). This is why the reported numbers of his HP wildly vary. If you simply add it, it will be based on the amount of rounds it takes you to kill him. I've yet to take his helmet off, so I'm not sure if it continues past that.
+
+Also, Sleep starts at an enemy at 4, and will count down to zero. They have a probabilistic chance of waking up before then, but will definitely wake up once the counter reaches zero. The counter decreases every time you see "Enemy is asleep!" Casting Sleep while the counter is > 0 will reset the counter to 4.
+
+There are 3 mandatory (i.e. non-probabilistic, the RNG can't prevent the encounter) that occur in the game (or, at least that I've found so far), that no one lists as a boss. Two of these can be avoided by walking backwards.
+#1 is the Sea Stallion in the first Pool in the Cave of Truth. Walking backwards through the pool will avoid this conflict.
+#2 is the Head-hunter that drops through the ceiling in Floor 2. Also can be avoided by traversing the hallway backwards
+#3 is the Kromeball in Floor 2, right before the stairs. No known way to avoid this conflict.
+
+Whether or not Gila will attack is decided BEFORE the round starts, (i.e. before you get the chance to say fight/magic/etc.) This is of little consequence to anyone not trying to control the RNG, but may still be interesting.
+
+
+Brimstone. You have the MUDDLE the creature first - "[MONSTER] hands over its treasure". (Dream Blade)
+Uf2 may be the need to muddle enemy to get teh drop!
+
+
+modifier 129 (armor)
+100 = paralysis in %
+
+modifier 128 (weapon)
+usage effect 12 means?
+25 = heal 2 (mercy staff)
+110 = blind  = muddle 1, permanent (storm sword)
+armor factor to 0 (glass amnor)
+
+
+
+-- DAI
+- Get to the Trial of Wisdom (the final trial)
+- Get past the Map 1 area
+- Shortly after this area, you'll find a purple door to your left (unless you take the path that falls through a hole to the FireSword); go through the purple door (and a series of others beyond it
+- Once you've gone through the last door, turn left and head straight ahead - Dai'll pop round the corner and, after a brief cutscene, join your team.
+If you're using a map, the area he's hiding in is around the north-eastern corner of the level.
+
+Bear in mind that he'll leave you the next time you go to the Tavern (seeing as he'll want to be reunited with his family after being lost in the Labyrinth for so long). I forget whether or not his rescue affects some useful info Edward gives you near the end of the game, though.
+-> Edward tells you about the Shining Fountain and gives clues about the Labyrinth Proper.
+--
+
+
+Are you familiar with the Forbidden Box effect which summons a giant ogre to step on all the enemies? The ogre flute produces that effect every time you use it.
+
+---
+The name is Kryn or something to that effect, for some reason the spelling evades me at the moment. However, it's only for a very brief period in time when you get into the trials of the ancients that you'll see her in the Tavern. She asks if you'd like to here a song, which is truly horrible, and if you refuse she says something about how can you favor a drink over her music.
+
+--
+
+Can you finish the game without getting Dai? I mean, you need to be blessed by the Spirit of Light to fight Darksol, and Edward won't give you info on the Vial of Tears (needed for that purpose) if you haven't rescued Dai. He'll simply tell you go back and bring Dai to him.
+Forgive my ignorance if I'm wrong. I just don't play SiTD that much. :)
+
+Postby DarkKobold » Fri Jun 26 2009 4:23am
+If you watch the TAS, you'll see. Its not necessary at all to be 'blessed' to enter Darksol's chamber.
+---
+It turns out - Criticals "Awesome Blow" are not effected by the luck stat.
+It is actually effected by the Character, and the Weapon the character equips.
+All start at a value of 8 - this is listed in 0xFF151E for Hero, 0xFF1520 for Milo, and 0xFF1522 for Pyra.
+For example, the Light blade value increases this by 25.
+The way to calculate the actual percentage is to take the number, and divide by 256.
+Thus, the starting critical rate is 3%. With the light blade (33/256) = 12.8%
+I could probably come up with a table that says how much each weapon/armor affects this.
+
+I can guarantee thus far it does NOT affect:
+Waking up from Sleep.
+Item Drops. 
+--
+
+Mercy Staff - cast Heal Level 2
+Dream Blade - casts Blind level (?) - causes wearer to be permanently muddled.
+Glass Armor - (unobtainable without hacking?) Drops Armor factor to zero. Cursed. Picture is a naked butt, amusingly. No use in battle (Although, it allows you to select a target).
+Doom Blade - no use in battle.
+Tamayoshi (Jogurt's Helm?) - Cursed, causes perma-muddle. Drops armor factor to zero. Makes 'miss noise' in battle when used.
+---
+https://gamefaqs.gamespot.com/genesis/586454-shining-in-the-darkness/faqs/33234
+
+
+I just discovered a couple sections of dialogue I've never seen before. Possibly these have already appeared on that "Rare Shining in the Darkness Dialogue" page, but I don't remember them being on there, and I can't find the page to check.
+
+Anyway, I met with Mr. Brax and Mrs. Myst, but Milo had died and I hadn't yet taken the time to go to the shrine. Right after Old Vyk informs you that the two of them are there, Mr. Brax said "Oh no! Milo is dead! Well, I've got something to take care of that."
+
+"Mr. Brax uses a MIRACLE HERB."
+
+"Milo is revived!"
+
+"Nothing remains of the MIRACLE HERB."
+
+Next, I went to my rendezvous with Melvyl without going to the Shrine to revive Hiro first. First, instead of "Hiro, there's somebody here to see you", Old Vyk says "Milo, there's somebody here to see you." Then Mrs. Vyk says something completely different from usual; unfortunately, I neglected to write it down because I didn't immediately realize it was different. Finally, the really interesting part: When you talk to "Melvyl", the usual cutscene does not ensue. He says only "I had hoped to have a word with Hiro. But since he's dead..."
+
+If you talk to "Melvyl" again, he just keeps repeating that same line until you return with Hiro revived.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
