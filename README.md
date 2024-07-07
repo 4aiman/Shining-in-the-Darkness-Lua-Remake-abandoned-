@@ -32,3 +32,7 @@ Here and there sprinkled some files. Some usefull, some useless, some need to be
 - notes.txt - some addresses in ROM, in Russian, may provide some insight on the structure of the ROM
 - new 3.txt - info, dumped from online sources: enemy data (contains errors), sprite properties, resistance values explanation, per-enemy battle moves listm effect ids, enemy zone levels (the part I failed to read from the ROM), cheat codes, leveling up tables, some conversations from SFC, modifier explanation, hidden items and dialogues 
 - trans.txt - notes on translation, in Russian, may provide some insight on the structure of the ROM
+
+### Demo
+
+[![YouTube](http://i.ytimg.com/vi/8Z4KgYYHqZI/hqdefault.jpg)](https://www.youtube.com/watch?v=8Z4KgYYHqZI)
