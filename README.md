@@ -1,4 +1,4 @@
-## Shining in the Darkness Ramake [abandoned]
+## Shining in the Darkness Remake [abandoned]
 
 Made in 2021 in hopes of stirring some interest towards the game.
 
