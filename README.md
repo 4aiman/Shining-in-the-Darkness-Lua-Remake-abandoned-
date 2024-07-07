@@ -4,7 +4,7 @@ Made in 2021 in hopes of stirring some interest towards the game.
 
 Built in Lua upon g3d engine made for love2d framework.
 
-Released under MIT if applicable (code, models, some of the textures textures)
+Released under MIT if applicable (code, models, some of the textures)
 
 ### How to use:
 
